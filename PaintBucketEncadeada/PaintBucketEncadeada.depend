@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1331260810 source:/home/rsjoao/PaintBucketEncadeada/main.cpp
+	<iostream>
+	"PilhaEnc.h"
+
+1331260821 /home/rsjoao/PaintBucketEncadeada/PilhaEnc.h
+	<iostream>
+	<stdlib.h>
+
