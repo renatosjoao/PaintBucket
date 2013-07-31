@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1331247920 source:/home/rsjoao/PaintBucketSequencial/main.cpp
+	<iostream>
+	"PilhaSeq.h"
+
+1331245285 /home/rsjoao/PaintBucketSequencial/PilhaSeq.h
+	<iostream>
+
